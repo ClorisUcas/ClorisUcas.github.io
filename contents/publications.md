@@ -1,5 +1,3 @@
-论文
-
 - ECSAS: Exploring Critical Scenarios from Action Sequence in Autonomous Driving ATS 2023, IEEE 32nd Asian Test Symposium 一作  
 
 - SAB: Stacking Action Blocks for Efficiently Generating Diverse Multimodal Critical Driving Scenario APSEC 2023, 30th Asia-Pacific Software Engineering Conference 一作
@@ -9,8 +7,6 @@
 - Enhancing Safety Assurance for Automated Driving Systems by Supporting Operation Simulation and Data Analysis ESREL 2023, 33nd European Safety And Reliability Conference 二作
 
 - Behavior-Tree Based Scenario Specification and Test Case Generation for Autonomous Driving Simulation. 2022 ICITES，一作
-
-专利
 
 - 一种基于覆盖率的神经网络有效数据增强方法，专利号ZL202011562234.7
 
