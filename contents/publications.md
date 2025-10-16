@@ -8,6 +8,7 @@
 
 - Behavior-Tree Based Scenario Specification and Test Case Generation for Autonomous Driving Simulation. 2022 ICITES，一作
 
+<!--
 - 一种基于覆盖率的神经网络有效数据增强方法，专利号ZL202011562234.7
 
 - 基于行为树的自动驾驶测试方法、装置、存储介质及设备，申请号：CN202210071963.5
@@ -17,3 +18,4 @@
 - 面向自动驾驶的关键场景生成方法、装置及计算机设备，申请号：CN202211435590.1
   
 - 面向自动驾驶的多样关键场景生成方法，申请号：CN202310188589.1   
+-->
